@@ -22,3 +22,6 @@ SOURCES += main.cpp \
 HEADERS  += debbin.h
 
 FORMS    += debbin.ui
+
+DISTFILES += \
+    README.md
